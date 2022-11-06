@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="iMain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Harry.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="inGame.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="menu.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="myLoadImage.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="variables.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="goblin.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="collision.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="allScore.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Snape.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="images\H2.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="images\H3.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="images\H4.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="images\H5.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="images\Gob5.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="images\Gob6.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="images\Gob7.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="images\Gob8.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="images\Gob9.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="images\Gob10.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="images\fire.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="GameOver\over.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="images\red-plus-md_400x400.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="images\drawn-cave-2d-game-background-521006-1009672.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="images\shadow-ball-2.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="images\painting-game-about-salvador-dal-7-638.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
